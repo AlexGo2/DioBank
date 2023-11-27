@@ -1,0 +1,15 @@
+.header {
+    font-size: 18px;
+    font-weight: bolder;
+    padding: 15px;
+    color: #fafafa;
+    background-color: #151515;
+}
+
+.footer { 
+    font-size: 14px;
+    font-weight: bolder;
+    padding: 15px;
+    color: #fafafa;
+    background-color: #151515;
+}
